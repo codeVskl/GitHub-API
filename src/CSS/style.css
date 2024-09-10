@@ -153,7 +153,7 @@ body {
 }
 
 .events.section li {
-    margin: 8px 0;
+    margin: 10px 0;
 }
 
 .events.section ul li p {
@@ -198,5 +198,9 @@ body {
 
     .repositories.section a {
         padding: 12px 15px;
+    }
+
+    .events.section ul li p {
+        font-size: 18px;
     }
 }
